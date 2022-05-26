@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"d11","name":"Consolidated Data Warehouse","description":null,"summary":[{"field":"DBMS","value":"SQL Server"}],"modules":[{"id":"m118","name":"Consolidated Data warehouse"}],"dbObjects":[{"count":27,"id":"d11t","name":"Tables"}],"show_schema":true};
